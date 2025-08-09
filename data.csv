@@ -1,0 +1,181 @@
+Timestamp,Are you 18 years or older and willing to participate voluntarily?  ,  What is your age group?   ,What is your gender?  ,What is your highest level of education?  ,"How often do you watch video ads on platforms like YouTube, Instagram, or TikTok?  ","How familiar are you with AI-generated content (e.g., AI-made videos/images)?  ", Ad: A ,Ad: B   ,The ad feels original and creative?_A,The ad presents the product in an imaginative way?_A,The ad feels genuine and trustworthy?_A,The ad aligns well with what I expect from a fashion brand?_A,This ad appears to have been produced quickly?_A,The visual quality suggests minimal production time?_A,This ad seems inexpensive to produce?_A,I believe less effort or budget went into making this ad?_A,The ad feels original and creative?_B,The ad presents the product in an imaginative way?_B,The ad feels genuine and trustworthy?_B,The ad aligns well with what I expect from a fashion brand?_B,This ad appears to have been produced quickly?_B,The visual quality suggests minimal production time?_B,This ad seems inexpensive to produce?_B,I believe less effort or budget went into making this ad?_B,Which ad did you prefer overall?  ,Which ad do you think was created using AI?  ,Would you mind if ads were created using AI as long as they are effective?  
+2025/06/21 5:22:28 pm EEST,Yes,23-27,Male,Master's,5,4,3,5,3,5,3,5,5,5,1,5,5,5,5,5,5,5,5,5,Ad B,Ad B,No
+2025/06/21 5:29:05 pm EEST,Yes,23-27,Male,Master's,5,5,3,5,3,3,2,4,5,4,5,5,5,4,5,4,2,2,1,2,Ad B,Ad A,No
+2025/06/21 5:59:31 pm EEST,Yes,28-50,Female,Master's,5,5,3,3,3,3,4,4,4,4,3,4,4,4,4,4,4,4,4,4,Ad A,Ad B,Yes
+2025/06/21 6:36:08 pm EEST,Yes,23-27,Male,Master's,4,5,3,4,3,3,3,2,5,4,4,5,4,4,3,5,3,4,3,2,Ad B,Ad A,No
+2025/06/21 7:41:10 pm EEST,Yes,23-27,Female,Master's,1,5,3,5,5,5,5,5,1,1,1,1,5,5,5,5,1,1,1,1,Ad A,Ad A,Yes
+2025/06/21 7:41:13 pm EEST,Yes,23-27,Female,Bachelor's,3,5,3,3,3,3,3,3,4,4,4,4,3,3,3,3,4,3,4,3,Ad B,Ad A,No
+2025/06/21 7:43:09 pm EEST,Yes,23-27,Female,Master's,3,5,2,4,2,2,2,2,3,3,3,3,3,3,3,4,3,4,3,2,Ad B,Ad A,No
+2025/06/21 9:25:23 pm EEST,Yes,28-50,Female,Master's,5,4,3,3,3,3,3,3,3,3,4,4,3,3,3,3,4,4,4,4,Ad B,Ad A,No
+2025/06/21 10:18:19 pm EEST,Yes,23-27,Male,Bachelor's,3,5,4,5,3,4,3,2,5,5,5,5,2,2,2,2,5,5,5,5,Ad B,Ad B,Yes
+2025/06/21 10:32:55 pm EEST,Yes,28-50,Female,Bachelor's,2,1,3,2,1,1,1,1,5,5,4,5,1,1,1,1,4,4,4,4,Ad A,Ad A,No
+2025/06/22 12:40:57 am EEST,Yes,28-50,Male,Bachelor's,4,4,3,5,3,3,2,3,5,5,5,5,5,5,5,4,2,1,1,1,Ad B,Ad A,Yes
+2025/06/22 4:23:54 pm EEST,Yes,23-27,Male,Master's,2,4,3,2,3,3,2,1,4,5,3,3,2,2,1,1,3,2,4,4,Ad A,Ad B,Yes
+2025/06/22 4:40:09 pm EEST,Yes,23-27,Female,Master's,4,5,3,5,4,3,4,4,4,5,4,4,4,3,2,4,5,5,4,4,Ad B,Ad A,No
+2025/06/22 4:41:39 pm EEST,Yes,23-27,Male,Bachelor's,5,3,3,4,5,5,5,4,5,3,4,1,5,5,5,3,4,4,1,2,Ad B,Ad A,Yes
+2025/06/22 4:42:31 pm EEST,Yes,18-22,Male,High School,2,2,4,5,3,3,4,3,5,4,3,4,5,4,4,5,5,2,2,1,Ad B,Ad A,No
+2025/06/22 4:45:19 pm EEST,Yes,51 and above,Female,Other,5,4,3,4,3,4,2,4,5,5,5,5,4,5,4,4,4,4,5,4,Ad B,Ad A,Yes
+2025/06/22 4:47:43 pm EEST,Yes,18-22,Female,Bachelor's,5,5,3,5,3,3,4,3,5,4,5,4,3,3,4,4,5,1,2,2,Ad A,Ad A,No
+2025/06/22 4:49:51 pm EEST,Yes,28-50,Male,PhD,2,4,4,5,2,1,2,3,4,2,4,3,4,5,4,4,4,5,4,4,Ad B,Ad A,No
+2025/06/22 4:54:32 pm EEST,Yes,18-22,Male,Bachelor's,2,4,3,4,2,3,1,3,4,4,4,4,4,3,4,4,3,2,2,3,Ad B,Ad A,No
+2025/06/22 4:57:00 pm EEST,Yes,23-27,Male,Bachelor's,5,5,3,5,2,2,3,5,5,5,5,5,2,2,1,5,5,5,1,5,Ad B,Ad A,No
+2025/06/22 4:58:50 pm EEST,Yes,18-22,Male,Bachelor's,4,5,2,4,2,1,1,1,4,4,5,5,4,4,4,3,2,3,3,2,Ad B,Ad A,Yes
+2025/06/28 7:58:13 pm EEST,Yes,28-50,Female,Bachelor's,5,4,1,5,1,1,1,1,5,4,3,5,5,5,5,5,5,1,1,1,Ad B,Ad A,No
+2025/06/28 8:05:46 pm EEST,Yes,23-27,Male,Bachelor's,2,5,2,4,2,2,2,3,4,4,4,4,4,3,3,5,2,3,2,2,Ad B,Ad A,Yes
+2025/06/28 8:20:23 pm EEST,Yes,28-50,Male,Master's,3,3,2,2,2,1,2,3,5,4,4,4,2,2,2,3,4,3,3,4,Ad B,Ad A,No
+2025/06/28 9:02:50 pm EEST,Yes,23-27,Male,Master's,5,4,3,4,3,3,4,2,3,1,3,5,5,5,5,3,5,1,1,1,Ad B,Ad A,No
+2025/06/28 9:05:38 pm EEST,Yes,18-22,Male,Bachelor's,5,5,4,4,3,3,4,2,3,4,4,4,5,4,4,4,5,3,1,2,Ad B,Ad B,No
+2025/06/28 9:08:43 pm EEST,Yes,28-50,Female,Master's,5,3,5,3,4,4,3,4,4,4,4,4,2,3,2,3,4,3,2,2,Ad A,Ad B,No
+2025/06/28 9:11:30 pm EEST,Yes,51 and above,Female,Bachelor's,3,2,3,2,3,4,2,4,4,5,4,5,4,3,4,3,4,3,3,3,Ad B,Ad A,No
+2025/06/28 9:12:05 pm EEST,Yes,28-50,Male,Bachelor's,5,4,3,4,5,5,3,2,3,3,3,3,5,5,5,3,3,3,1,4,Ad B,Ad A,No
+2025/06/28 9:14:41 pm EEST,Yes,51 and above,Female,Master's,5,5,5,4,4,4,4,3,5,4,3,4,5,5,5,5,4,3,3,1,Ad A,Ad B,No
+2025/06/28 9:16:44 pm EEST,Yes,18-22,Female,Bachelor's,5,4,2,4,2,4,3,2,4,5,4,4,4,4,3,4,2,2,2,1,Ad B,Ad A,Yes
+2025/06/28 10:28:49 pm EEST,Yes,23-27,Male,Master's,5,5,3,4,2,2,2,4,3,3,2,2,3,2,3,4,1,3,2,2,Ad B,Ad A,No
+2025/06/28 11:15:58 pm EEST,Yes,23-27,Male,Master's,4,5,3,5,2,1,3,2,5,4,4,5,5,4,4,5,2,2,3,2,Ad B,Ad A,Yes
+2025/06/28 11:17:59 pm EEST,Yes,28-50,Male,PhD,3,4,3,4,2,3,1,4,4,3,4,4,4,5,3,4,4,2,1,3,Ad B,Ad A,Yes
+2025/06/28 11:19:30 pm EEST,Yes,28-50,Female,Other,2,1,4,5,4,3,4,2,4,3,2,4,4,5,5,4,4,2,3,2,Ad B,Ad A,No
+2025/06/28 11:22:13 pm EEST,Yes,51 and above,Male,High School,4,3,3,4,4,5,3,4,4,3,4,2,4,5,4,3,2,1,2,4,Ad A,Ad A,No
+2025/06/28 11:24:05 pm EEST,Yes,28-50,Female,High School,4,4,3,4,2,1,2,3,4,4,2,4,3,4,3,4,3,2,2,1,Ad B,Ad A,Yes
+2025/06/28 11:27:20 pm EEST,Yes,23-27,Other,Bachelor's,4,3,3,4,2,1,3,1,4,5,4,3,4,5,4,5,4,3,1,2,Ad B,Ad A,Yes
+2025/06/28 11:30:33 pm EEST,Yes,23-27,Female,Master's,4,3,3,4,2,1,3,1,4,3,4,5,4,5,5,4,2,2,1,1,Ad A,Ad A,Yes
+2025/06/29 12:08:17 am EEST,Yes,23-27,Male,Master's,2,4,2,4,2,1,2,2,1,5,4,4,3,3,3,3,4,2,2,2,Ad B,Ad A,No
+2025/06/29 12:32:13 pm EEST,Yes,28-50,Male,PhD,2,4,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2,Ad A,Ad A,No
+2025/06/29 12:41:25 pm EEST,Yes,28-50,Male,Master's,4,5,1,3,1,1,1,2,3,2,4,5,3,3,3,5,3,2,2,1,Ad B,Ad A,Yes
+2025/06/29 6:47:34 pm EEST,Yes,23-27,Female,PhD,3,4,3,4,3,2,3,3,5,4,4,4,4,4,5,4,2,2,1,2,Ad A,Ad B,Yes
+2025/06/29 6:50:38 pm EEST,Yes,18-22,Male,High School,4,3,4,5,4,3,2,3,4,4,5,4,4,5,4,5,2,1,4,4,Ad B,Ad A,No
+2025/06/29 6:51:55 pm EEST,Yes,51 and above,Female,High School,5,2,2,4,1,1,2,1,4,5,4,3,4,5,4,4,3,2,5,4,Ad A,Ad A,No
+2025/06/29 6:54:23 pm EEST,Yes,28-50,Female,Master's,4,5,3,4,2,1,3,2,4,4,5,4,3,4,4,3,4,2,2,2,Ad B,Ad A,Yes
+2025/06/29 6:55:46 pm EEST,Yes,28-50,Female,High School,4,1,4,5,4,4,3,4,2,3,2,4,4,5,4,4,2,4,3,4,Ad A,Ad B,No
+2025/06/29 6:59:04 pm EEST,Yes,18-22,Male,Bachelor's,4,2,2,4,2,3,1,2,4,4,3,4,1,2,3,2,3,4,2,2,Ad B,Ad A,Yes
+2025/06/29 7:01:12 pm EEST,Yes,28-50,Female,PhD,4,2,2,5,3,4,4,2,3,2,4,4,4,4,5,4,3,4,4,3,Ad B,Ad A,Yes
+2025/06/29 7:03:13 pm EEST,Yes,51 and above,Male,PhD,2,4,2,5,2,4,2,3,3,4,4,3,4,5,4,4,4,2,1,2,Ad B,Ad A,Yes
+2025/06/29 7:04:45 pm EEST,Yes,23-27,Female,Bachelor's,3,4,4,5,3,3,3,3,5,2,1,3,5,4,5,4,2,1,2,1,Ad B,Ad A,Yes
+2025/06/29 7:09:18 pm EEST,Yes,23-27,Female,Bachelor's,4,4,2,4,2,3,2,3,4,4,4,4,4,5,4,4,4,2,2,2,Ad B,Ad A,Yes
+2025/06/29 7:11:14 pm EEST,Yes,28-50,Female,Bachelor's,4,4,4,5,2,1,2,3,2,4,4,5,4,5,4,4,3,2,1,1,Ad B,Ad A,Yes
+2025/06/29 7:12:46 pm EEST,Yes,23-27,Male,PhD,2,3,2,4,1,1,1,2,3,4,4,5,4,5,5,4,4,4,5,4,Ad B,Ad A,Yes
+2025/06/29 7:15:38 pm EEST,Yes,28-50,Female,PhD,3,3,3,4,2,3,2,2,2,2,3,4,4,5,3,4,2,1,1,2,Ad B,Ad A,Yes
+2025/06/29 7:20:25 pm EEST,Yes,18-22,Female,Bachelor's,4,4,2,5,2,1,1,2,3,3,4,4,4,5,5,4,2,1,2,2,Ad B,Ad A,Yes
+2025/06/29 7:22:40 pm EEST,Yes,23-27,Male,Master's,4,4,3,5,3,2,1,3,3,2,4,5,4,3,4,3,2,1,2,3,Ad B,Ad A,No
+2025/06/29 7:29:12 pm EEST,Yes,18-22,Male,Bachelor's,4,5,4,3,2,1,2,3,3,3,4,4,4,5,4,4,3,3,2,2,Ad B,Ad A,Yes
+2025/06/29 7:39:24 pm EEST,Yes,28-50,Female,High School,3,4,2,4,1,2,2,3,4,2,4,5,4,5,4,5,3,2,3,2,Ad B,Ad A,No
+2025/06/29 7:41:53 pm EEST,Yes,23-27,Female,Bachelor's,3,4,3,4,2,1,3,3,4,4,4,3,4,4,3,4,2,2,1,2,Ad B,Ad A,Yes
+2025/06/29 7:43:25 pm EEST,Yes,23-27,Female,Bachelor's,2,3,2,4,2,1,2,1,2,3,4,4,4,4,5,4,4,2,4,3,Ad B,Ad A,Yes
+2025/06/29 7:46:04 pm EEST,Yes,23-27,Female,Master's,4,5,3,4,4,2,1,2,3,3,4,5,4,4,5,4,4,3,2,2,Ad B,Ad A,No
+2025/06/29 7:48:11 pm EEST,Yes,23-27,Female,High School,4,5,3,4,4,3,2,3,4,4,5,4,4,5,4,4,3,2,2,2,Ad B,Ad A,Yes
+2025/06/29 7:56:29 pm EEST,Yes,28-50,Male,Bachelor's,4,3,3,4,2,4,4,2,4,2,4,4,4,4,5,4,2,1,1,2,Ad B,Ad A,No
+2025/06/29 7:58:51 pm EEST,Yes,28-50,Male,PhD,2,5,2,4,3,2,1,2,2,2,3,3,4,5,4,4,2,2,3,3,Ad B,Ad A,Yes
+2025/06/30 7:01:00 am EEST,Yes,23-27,Male,Master's,1,5,3,5,3,2,2,3,5,5,5,5,5,5,5,5,2,2,2,2,Ad B,Ad A,No
+2025/06/30 8:51:05 pm EEST,Yes,28-50,Male,Master's,5,5,5,3,4,5,4,5,5,4,4,4,3,3,3,3,3,3,3,3,Ad A,Ad A,No
+2025/06/30 8:52:19 pm EEST,Yes,23-27,Male,Master's,5,5,3,5,3,2,3,4,5,5,5,5,5,5,5,5,5,5,5,5,Ad B,Ad A,No
+2025/06/30 8:53:42 pm EEST,Yes,23-27,Male,Bachelor's,5,4,5,2,5,5,5,4,4,4,3,5,3,2,3,3,2,5,1,1,Ad A,Ad B,No
+2025/06/30 9:26:23 pm EEST,Yes,23-27,Male,Master's,4,5,2,4,2,3,2,4,4,4,4,4,4,4,4,4,3,4,2,3,Ad B,Ad A,No
+2025/07/01 9:21:02 am EEST,Yes,18-22,Male,Bachelor's,5,5,5,3,5,5,5,5,4,3,1,5,3,3,2,4,3,4,4,3,Ad A,Ad B,No
+2025/07/01 9:22:38 am EEST,Yes,18-22,Male,Bachelor's,4,4,5,4,5,5,5,5,5,5,5,5,4,3,3,4,5,3,4,4,Ad A,Ad A,No
+2025/07/01 9:25:04 am EEST,Yes,23-27,Male,Master's,5,5,4,4,5,5,5,5,5,5,5,5,4,5,5,5,4,4,5,5,Ad A,Ad B,Yes
+2025/07/01 9:27:45 am EEST,Yes,23-27,Male,Master's,5,3,4,5,5,5,5,3,3,3,1,5,5,5,3,3,4,5,4,4,Ad A,Ad B,Yes
+2025/07/01 9:30:10 am EEST,Yes,28-50,Male,Master's,5,5,4,4,4,4,4,3,5,5,5,5,3,3,5,4,4,5,1,5,Ad A,Ad A,No
+2025/07/01 9:33:31 am EEST,Yes,28-50,Male,Master's,5,5,4,4,5,4,5,4,3,5,5,5,3,3,3,3,4,5,4,3,Ad A,Ad B,Yes
+2025/07/01 9:35:08 am EEST,Yes,28-50,Female,Master's,5,5,4,5,5,5,5,5,4,1,1,4,4,5,4,5,5,4,5,5,Ad A,Ad B,No
+2025/07/01 4:36:21 pm EEST,Yes,23-27,Male,Bachelor's,5,5,5,3,5,5,5,4,4,4,4,3,4,4,4,3,3,3,3,3,Ad A,Ad B,No
+2025/07/01 4:39:51 pm EEST,Yes,18-22,Male,Bachelor's,5,5,5,4,5,5,5,5,3,2,5,1,5,5,3,3,3,3,3,5,Ad A,Ad B,No
+2025/07/01 4:45:20 pm EEST,Yes,23-27,Male,Master's,5,5,5,3,5,5,5,3,3,5,4,4,5,5,4,3,3,3,4,4,Ad A,Ad B,Yes
+2025/07/01 6:21:56 pm EEST,Yes,28-50,Female,Master's,5,5,5,2,5,5,5,5,5,5,3,5,2,3,3,2,2,5,5,5,Ad A,Ad B,Yes
+2025/07/01 6:29:54 pm EEST,Yes,23-27,Male,Master's,5,4,5,3,5,5,5,3,4,4,4,1,2,2,1,3,3,1,1,1,Ad A,Ad B,Yes
+2025/07/01 6:51:43 pm EEST,Yes,23-27,Male,High School,5,5,5,5,5,5,4,4,5,5,5,5,4,4,5,5,5,5,5,4,Ad A,Ad B,Yes
+2025/07/01 9:53:13 pm EEST,Yes,23-27,Male,Master's,5,5,5,3,4,3,3,3,5,5,5,5,3,3,3,4,4,4,3,5,Ad A,Ad B,Yes
+2025/07/01 9:54:23 pm EEST,Yes,23-27,Male,Master's,5,5,5,3,4,5,5,5,4,4,5,5,5,4,4,5,5,5,4,5,Ad A,Ad B,Yes
+2025/07/01 9:55:12 pm EEST,Yes,23-27,Male,Master's,5,5,5,3,5,4,4,3,5,5,3,5,3,3,3,3,3,3,3,4,Ad A,Ad B,Yes
+2025/07/01 9:56:03 pm EEST,Yes,18-22,Female,High School,5,5,5,3,4,5,5,5,5,5,5,5,4,4,4,4,4,4,4,5,Ad A,Ad B,Yes
+2025/07/01 9:58:17 pm EEST,Yes,28-50,Female,PhD,5,4,5,3,5,3,5,5,5,4,5,5,5,5,5,4,4,5,5,5,Ad A,Ad B,Yes
+2025/07/01 9:59:02 pm EEST,Yes,23-27,Male,Master's,5,5,5,3,5,5,4,5,5,5,5,5,4,4,3,5,3,3,5,3,Ad A,Ad B,Yes
+2025/07/01 10:18:05 pm EEST,Yes,18-22,Female,Bachelor's,4,2,5,3,5,4,5,4,2,1,2,2,3,2,1,3,2,3,4,5,Ad A,Ad B,Yes
+2025/07/01 10:43:35 pm EEST,Yes,28-50,Female,Master's,3,4,4,2,4,5,4,2,1,2,2,2,2,3,1,3,4,5,4,4,Ad A,Ad B,Yes
+2025/07/02 4:57:50 pm EEST,Yes,28-50,Male,Bachelor's,3,4,4,3,4,4,4,4,4,2,1,2,2,2,2,1,2,4,2,1,Ad A,Ad B,Yes
+2025/07/02 5:19:40 pm EEST,Yes,23-27,Female,Bachelor's,4,3,4,2,4,3,4,4,3,2,2,2,2,1,2,2,3,5,4,5,Ad A,Ad B,Yes
+2025/07/02 5:21:45 pm EEST,Yes,18-22,Female,Bachelor's,4,3,5,1,3,5,5,5,3,1,1,1,2,2,2,2,5,4,4,5,Ad A,Ad B,Yes
+2025/07/02 5:23:29 pm EEST,Yes,23-27,Male,Master's,4,2,3,2,4,5,4,4,2,2,1,2,2,1,2,1,4,5,3,4,Ad A,Ad B,Yes
+2025/07/02 5:24:58 pm EEST,Yes,51 and above,Female,Master's,4,1,4,1,4,5,4,3,1,2,2,2,2,2,1,3,4,3,3,4,Ad A,Ad B,Yes
+2025/07/02 5:26:26 pm EEST,Yes,28-50,Female,PhD,4,5,4,3,4,5,4,5,2,2,1,2,2,2,1,3,4,5,4,4,Ad A,Ad B,Yes
+2025/07/02 11:33:43 pm EEST,Yes,18-22,Male,Bachelor's,5,5,5,4,5,5,4,5,5,4,3,1,4,3,3,4,4,2,3,3,Ad A,Ad B,Yes
+2025/07/02 11:35:16 pm EEST,Yes,18-22,Male,Bachelor's,5,5,5,4,5,5,5,5,5,5,1,1,5,5,5,5,3,2,3,3,Ad A,Ad B,Yes
+2025/07/02 11:38:39 pm EEST,Yes,18-22,Female,Bachelor's,4,5,4,3,4,4,4,4,4,3,3,2,5,3,3,3,3,3,2,2,Ad A,Ad B,No
+2025/07/02 11:39:38 pm EEST,Yes,23-27,Female,Master's,5,5,4,3,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,Ad A,Ad B,Yes
+2025/07/02 11:40:46 pm EEST,Yes,23-27,Female,Master's,5,4,4,4,5,5,5,3,2,3,3,3,5,5,5,4,2,2,2,2,Ad A,Ad B,No
+2025/07/02 11:41:56 pm EEST,Yes,23-27,Male,Master's,5,5,5,4,5,5,5,5,3,3,3,3,3,3,4,2,2,2,2,3,Ad A,Ad B,Yes
+2025/07/02 11:43:10 pm EEST,Yes,28-50,Female,Master's,5,5,4,4,5,4,5,3,3,3,2,2,5,4,4,2,2,5,3,2,Ad A,Ad B,Yes
+2025/07/02 11:44:21 pm EEST,Yes,28-50,Male,Master's,5,5,4,4,4,5,4,2,5,5,4,4,4,4,5,2,2,3,3,3,Ad A,Ad B,No
+2025/07/02 11:45:51 pm EEST,Yes,28-50,Female,Master's,5,5,4,4,4,4,3,3,4,4,4,4,3,3,4,4,4,4,4,4,Ad A,Ad B,No
+2025/07/02 11:46:45 pm EEST,Yes,28-50,Female,PhD,4,5,3,2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Ad B,Ad B,Yes
+2025/07/02 11:47:47 pm EEST,Yes,51 and above,Female,PhD,3,4,3,4,2,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,Ad B,Ad A,No
+2025/07/02 11:48:36 pm EEST,Yes,18-22,Other,High School,5,3,5,4,4,4,4,5,5,5,5,5,4,4,4,5,5,4,4,4,Ad B,Ad B,No
+2025/07/02 11:51:24 pm EEST,Yes,28-50,Male,Bachelor's,3,4,4,1,4,3,4,4,3,2,2,1,3,2,2,1,4,5,4,5,Ad A,Ad B,Yes
+2025/07/02 11:52:29 pm EEST,Yes,18-22,Female,High School,5,3,4,1,4,3,4,5,2,1,2,2,1,2,1,2,3,4,5,4,Ad A,Ad B,Yes
+2025/07/02 11:53:32 pm EEST,Yes,28-50,Male,Master's,3,5,3,1,3,3,4,3,3,2,2,1,2,3,1,2,4,5,5,4,Ad A,Ad B,Yes
+2025/07/02 11:54:26 pm EEST,Yes,23-27,Male,Bachelor's,5,3,4,1,3,4,3,4,2,2,3,1,3,2,1,2,5,4,4,4,Ad A,Ad B,Yes
+2025/07/02 11:58:49 pm EEST,Yes,51 and above,Female,PhD,3,2,3,1,3,4,3,4,3,2,1,3,3,1,3,2,4,4,3,4,Ad A,Ad B,Yes
+2025/07/03 12:00:07 am EEST,Yes,23-27,Male,High School,4,3,4,2,4,5,3,2,4,2,1,1,2,1,2,3,2,4,3,4,Ad A,Ad B,Yes
+2025/07/03 12:02:08 am EEST,Yes,23-27,Male,Bachelor's,4,3,5,2,4,5,4,4,2,4,2,3,4,2,1,2,4,4,4,5,Ad A,Ad B,Yes
+2025/07/03 12:03:27 am EEST,Yes,23-27,Male,Master's,3,4,4,1,4,5,3,2,2,1,2,2,2,1,1,2,4,5,5,4,Ad A,Ad B,Yes
+2025/07/03 12:05:50 am EEST,Yes,23-27,Female,Master's,4,5,4,2,4,3,5,2,2,1,2,1,2,1,2,2,2,4,5,5,Ad A,Ad B,Yes
+2025/07/03 12:07:12 am EEST,Yes,28-50,Male,PhD,4,5,4,2,5,4,3,4,3,3,2,3,2,3,3,3,2,3,3,2,Ad A,Ad B,Yes
+2025/07/03 12:47:39 am EEST,Yes,23-27,Female,Bachelor's,4,3,5,3,4,5,5,4,2,1,2,1,2,3,3,4,4,3,4,3,Ad A,Ad B,Yes
+2025/07/03 9:15:24 am EEST,Yes,28-50,Female,Master's,4,5,5,4,4,5,5,5,5,5,5,3,3,4,4,4,4,4,4,4,Ad A,Ad B,No
+2025/07/03 9:16:32 am EEST,Yes,28-50,Male,PhD,4,4,3,4,4,5,3,3,5,4,4,4,3,4,4,4,4,4,4,3,Ad B,Ad A,Yes
+2025/07/03 9:17:47 am EEST,Yes,23-27,Male,Master's,5,5,3,4,4,5,5,5,5,4,5,4,5,5,5,5,2,2,3,1,Ad B,Ad B,No
+2025/07/03 9:19:15 am EEST,Yes,18-22,Male,Bachelor's,5,5,4,3,5,5,5,5,5,5,4,3,3,4,3,4,4,2,2,2,Ad A,Ad B,No
+2025/07/03 2:11:01 pm EEST,Yes,18-22,Female,Bachelor's,4,3,4,2,4,4,5,3,2,1,1,2,2,2,1,3,4,5,4,3,Ad A,Ad B,Yes
+2025/07/03 2:12:26 pm EEST,Yes,18-22,Female,Bachelor's,4,5,5,1,4,5,4,4,2,2,1,1,2,2,1,2,4,5,4,5,Ad A,Ad B,Yes
+2025/07/03 2:13:53 pm EEST,Yes,23-27,Male,Bachelor's,4,5,4,2,3,4,4,3,2,1,2,3,2,1,2,2,4,5,4,5,Ad A,Ad B,Yes
+2025/07/03 2:20:03 pm EEST,Yes,51 and above,Female,PhD,5,4,4,3,4,5,4,5,2,1,2,1,3,5,4,3,2,3,4,3,Ad A,Ad B,Yes
+2025/07/03 2:21:23 pm EEST,Yes,28-50,Female,Bachelor's,3,4,4,1,4,5,3,4,3,2,2,1,2,1,3,3,2,1,4,4,Ad A,Ad B,Yes
+2025/07/03 3:22:45 pm EEST,Yes,23-27,Female,Master's,4,3,4,2,4,5,4,3,2,1,2,2,2,1,2,1,4,3,5,4,Ad A,Ad B,Yes
+2025/07/03 3:24:14 pm EEST,Yes,28-50,Female,PhD,4,4,4,3,4,3,4,5,2,1,1,2,4,5,3,1,2,2,3,2,Ad A,Ad B,Yes
+2025/07/03 3:25:23 pm EEST,Yes,23-27,Male,Bachelor's,4,4,5,3,4,5,4,3,2,1,2,2,2,3,3,1,2,4,3,5,Ad A,Ad B,Yes
+2025/07/03 3:54:38 pm EEST,Yes,23-27,Male,High School,4,2,3,1,4,3,3,4,1,2,1,1,2,2,3,2,4,5,4,4,Ad A,Ad B,Yes
+2025/07/03 3:56:11 pm EEST,Yes,23-27,Female,Other,3,3,3,1,3,4,4,5,2,1,2,1,4,3,4,2,3,3,2,2,Ad A,Ad B,Yes
+2025/07/03 3:57:40 pm EEST,Yes,23-27,Female,Bachelor's,4,5,3,1,4,5,3,4,3,2,1,2,3,2,3,3,1,2,2,2,Ad A,Ad B,Yes
+2025/07/04 8:10:59 pm EEST,Yes,23-27,Female,Bachelor's,4,5,4,4,4,4,4,4,2,2,2,2,4,4,4,4,2,2,2,2,Ad A,Ad B,Yes
+2025/07/04 8:12:16 pm EEST,Yes,28-50,Female,Bachelor's,4,4,3,3,3,2,3,3,2,3,3,2,3,2,3,3,2,3,2,3,Ad B,Ad A,Yes
+2025/07/04 8:13:47 pm EEST,Yes,18-22,Male,High School,4,3,4,4,4,5,4,4,5,2,2,3,4,5,4,5,3,2,2,2,Ad B,Ad A,Yes
+2025/07/04 8:14:53 pm EEST,Yes,51 and above,Male,Master's,5,3,2,2,2,1,2,1,3,3,3,4,2,1,2,1,3,3,4,3,Ad A,Ad B,Yes
+2025/07/04 8:19:19 pm EEST,Yes,28-50,Female,Bachelor's,4,5,4,4,4,5,5,4,3,3,3,3,4,5,5,4,3,3,3,3,Ad A,Ad B,Yes
+2025/07/04 8:20:30 pm EEST,Yes,28-50,Female,High School,4,5,4,4,4,5,5,4,3,3,3,3,4,5,5,4,4,3,3,3,Ad B,Ad A,Yes
+2025/07/04 8:21:36 pm EEST,Yes,18-22,Male,Bachelor's,4,4,5,5,5,5,5,5,2,2,2,2,5,5,5,5,2,2,2,2,Ad B,Ad A,Yes
+2025/07/04 8:22:36 pm EEST,Yes,23-27,Female,Master's,3,4,4,4,4,5,5,4,2,2,2,2,4,5,5,4,2,2,2,2,Ad A,Ad B,Yes
+2025/07/04 8:24:51 pm EEST,Yes,18-22,Female,High School,4,5,4,4,4,5,5,4,2,2,2,2,4,5,5,4,2,2,2,2,Ad A,Ad B,Yes
+2025/07/04 8:25:56 pm EEST,Yes,28-50,Female,PhD,5,4,5,5,4,5,5,5,2,1,2,1,4,5,5,5,2,1,1,1,Ad B,Ad A,Yes
+2025/07/04 8:27:03 pm EEST,Yes,28-50,Male,Bachelor's,4,5,4,4,4,4,4,4,2,2,2,2,4,5,4,4,2,1,2,2,Ad B,Ad A,Yes
+2025/07/04 8:30:28 pm EEST,Yes,23-27,Male,Bachelor's,4,5,4,4,4,4,4,4,2,2,2,2,4,4,4,4,2,2,2,2,Ad A,Ad B,Yes
+2025/07/04 8:31:23 pm EEST,Yes,18-22,Male,Master's,5,4,5,5,4,4,4,4,2,2,2,2,4,4,4,4,2,2,2,2,Ad A,Ad B,Yes
+2025/07/04 8:32:30 pm EEST,Yes,23-27,Female,Bachelor's,5,4,5,5,5,5,5,5,1,1,1,1,5,5,5,5,1,1,1,1,Ad A,Ad B,Yes
+2025/07/04 8:33:29 pm EEST,Yes,28-50,Male,Bachelor's,4,5,4,4,4,4,5,5,2,2,2,2,5,5,4,4,2,2,2,2,Ad B,Ad A,Yes
+2025/07/04 8:35:18 pm EEST,Yes,23-27,Female,Bachelor's,4,4,4,4,5,4,5,4,2,2,2,2,4,5,5,4,2,2,2,1,Ad B,Ad A,Yes
+2025/07/04 8:36:16 pm EEST,Yes,28-50,Male,Master's,4,5,4,4,4,4,4,5,3,2,2,2,4,4,4,5,3,3,2,2,Ad B,Ad A,Yes
+2025/07/04 8:38:25 pm EEST,Yes,23-27,Female,High School,5,4,4,4,4,5,5,5,2,2,2,2,4,4,5,5,2,2,2,2,Ad B,Ad A,Yes
+2025/07/04 8:39:28 pm EEST,Yes,28-50,Male,High School,4,3,3,3,4,4,4,5,2,2,2,1,4,4,5,5,2,2,2,1,Ad B,Ad A,Yes
+2025/07/04 8:40:52 pm EEST,Yes,23-27,Other,Bachelor's,4,5,5,5,4,4,5,5,2,2,2,2,4,4,5,2,2,1,2,1,Ad B,Ad A,Yes
+2025/07/04 8:41:59 pm EEST,Yes,18-22,Male,Bachelor's,4,5,4,4,5,4,4,4,2,2,2,2,5,5,4,4,2,2,2,1,Ad A,Ad B,Yes
+2025/07/04 8:43:48 pm EEST,Yes,23-27,Female,Bachelor's,4,5,4,4,5,4,4,4,2,2,2,2,5,4,4,4,2,2,2,2,Ad B,Ad A,Yes
+2025/07/04 8:44:55 pm EEST,Yes,23-27,Female,Master's,4,5,5,5,5,4,5,4,2,2,2,2,5,4,5,4,2,2,2,2,Ad B,Ad A,Yes
+2025/07/04 8:45:57 pm EEST,Yes,18-22,Female,Master's,5,4,4,5,4,4,4,4,1,1,1,1,5,5,5,5,1,1,1,1,Ad A,Ad B,No
+2025/07/04 8:47:02 pm EEST,Yes,28-50,Female,PhD,3,5,4,4,4,4,4,4,2,2,2,2,4,4,5,4,2,2,2,2,Ad B,Ad A,Yes
+2025/07/04 8:50:47 pm EEST,Yes,18-22,Female,High School,4,5,4,4,4,4,4,4,4,2,2,2,4,4,4,4,2,2,1,1,Ad A,Ad B,Yes
+2025/07/04 9:24:36 pm EEST,Yes,18-22,Male,Bachelor's,5,5,4,5,5,5,4,4,4,3,3,3,5,4,5,4,3,3,3,3,Ad B,Ad A,Yes
+2025/07/04 9:26:03 pm EEST,Yes,23-27,Male,Master's,5,5,4,4,5,4,4,5,3,3,3,1,4,4,4,4,4,4,4,4,Ad A,Ad B,No
+2025/07/04 9:27:50 pm EEST,Yes,28-50,Male,Master's,5,5,4,5,4,4,3,3,3,3,4,3,5,5,5,5,5,5,5,5,Ad B,Ad A,Yes
+2025/07/04 9:29:06 pm EEST,Yes,28-50,Male,Master's,5,5,5,5,4,4,4,4,4,4,4,5,5,5,5,4,3,4,3,3,Ad B,Ad B,Yes
+2025/07/04 9:31:18 pm EEST,Yes,28-50,Male,Master's,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,Ad A,Ad B,Yes
+2025/07/05 12:54:31 pm EEST,Yes,28-50,Male,Master's,5,5,5,5,4,4,4,5,5,4,5,5,4,5,5,4,4,5,5,4,Ad B,Ad A,Yes
+2025/07/05 1:30:04 pm EEST,Yes,28-50,Male,Master's,5,5,4,4,5,4,3,4,3,4,3,4,4,3,5,5,5,5,3,3,Ad A,Ad B,Yes
+2025/07/05 1:31:12 pm EEST,Yes,28-50,Male,Master's,5,5,4,4,5,4,5,4,5,4,4,4,5,5,5,4,4,4,4,4,Ad A,Ad B,No
+2025/07/05 1:33:01 pm EEST,Yes,28-50,Male,Master's,5,5,4,4,4,5,5,4,4,3,3,3,5,5,4,4,1,2,1,1,Ad B,Ad A,No
+2025/07/05 1:36:36 pm EEST,Yes,23-27,Male,Master's,5,5,4,4,5,4,4,4,5,4,5,4,4,5,4,5,5,5,5,4,Ad B,Ad B,No
+2025/07/05 1:37:29 pm EEST,Yes,28-50,Male,Master's,5,5,5,5,4,4,4,4,5,5,4,4,4,4,3,3,5,3,4,4,Ad B,Ad A,No
+2025/07/05 1:38:53 pm EEST,Yes,28-50,Male,Master's,5,5,4,4,5,5,5,5,5,4,4,4,4,4,4,4,5,5,4,4,Ad B,Ad A,No
+2025/07/05 1:39:54 pm EEST,Yes,28-50,Male,Master's,5,5,4,4,5,4,4,4,4,4,4,5,5,4,4,5,5,5,5,4,Ad B,Ad A,Yes
+2025/07/05 1:42:31 pm EEST,Yes,23-27,Female,Master's,5,5,3,3,5,4,3,2,5,4,4,5,5,5,5,5,5,5,5,5,Ad B,Ad A,No
+2025/07/05 1:43:42 pm EEST,Yes,28-50,Female,Master's,5,5,5,4,4,4,4,4,4,4,4,4,5,5,5,5,5,4,4,5,Ad B,Ad A,Yes
+2025/07/05 1:45:22 pm EEST,Yes,28-50,Female,Master's,4,5,4,4,5,5,3,3,3,3,4,2,5,5,5,5,5,5,5,5,Ad B,Ad B,Yes
+2025/07/05 1:46:13 pm EEST,Yes,23-27,Male,Master's,5,5,4,3,5,4,3,3,3,4,4,4,5,5,5,5,5,4,5,5,Ad B,Ad A,No
+2025/07/05 1:46:58 pm EEST,Yes,28-50,Female,Master's,5,5,4,4,5,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,Ad B,Ad A,No
+2025/07/05 1:47:57 pm EEST,Yes,28-50,Female,PhD,5,4,3,2,4,3,4,4,3,5,5,5,5,4,4,3,3,1,3,2,Ad B,Ad A,No

@@ -1,0 +1,13 @@
+pandas
+
+seaborn
+
+matplotlib
+
+scipy
+
+scikit-learn
+
+statsmodels
+
+numpy
